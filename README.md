@@ -1,6 +1,6 @@
 <p align="center">
   <a aria-label="NPM version" href="https://www.npmjs.com/package/uselongtimenomove">
-    <img alt="" src="https://badgen.net/npm/zaynex/uselongtimenomove">
+    <img alt="" src="https://badgen.net/npm/v/uselongtimenomove">
   </a>
   <a aria-label="Package size" href="https://bundlephobia.com/result?p=uselongtimenomove">
     <img alt="" src="https://badgen.net/bundlephobia/minzip/uselongtimenomove">
